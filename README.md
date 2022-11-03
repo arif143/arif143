@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Md. Arif Hossain Sarker
 #### Flutter & Web Developer
 
+![Profile views](https://gpvc.arturio.dev/arif143)
 
 I'm a Laravel(Web) and Flutter(Android & iOS) Developer who is passionate about new technologies. Learning something new everyday!! 
 
@@ -37,5 +38,5 @@ I'm a Laravel(Web) and Flutter(Android & iOS) Developer who is passionate about 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arif143)  
 
-![Profile views](https://gpvc.arturio.dev/arif143)  
+  
 
