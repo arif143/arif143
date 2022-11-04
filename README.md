@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/arif143)
 
-I'm a Laravel(Web) and Flutter(Android & iOS) Developer who is passionate about new technologies. Learning something new everyday!! 
+I'm a Flutter (Android & iOS) and Web (Laravel) Developer who is passionate about new technologies. Learning something new everyday!! 
 
 - 🔭 I’m currently working on ringID BD Ltd. 
 - 🌱 I’m currently learning  jQuery, JavaScript 
